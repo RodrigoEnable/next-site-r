@@ -1,1 +1,2 @@
-# next-site-r
+# R
+Source code of site R (in production)
